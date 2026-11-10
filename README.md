@@ -405,12 +405,12 @@ npx -p @brightdata/cli bdata pipelines run gd_m7aof0k82r803d5bjm collect_by_url 
 
 ## Node.js 版 ChatGPT 爬虫工具
 
-同一个 ChatGPT 抓取工具也提供 Node.js 版本：[brightdata/chatgpt-scraper-node](https://github.com/brightdata/chatgpt-scraper-node)。
+同一个 ChatGPT 抓取工具也提供 Node.js 版本：[bright-cn/chatgpt-scraper-node](https://github.com/bright-cn/chatgpt-scraper-node)。
 
 ## 更多 Bright Data 开源爬虫工具
 
 其他以相同方式构建并包含实时验证示例的 Python 爬虫工具：
 
-- [Python 版 URL 转 Markdown（Fetch API）](https://github.com/brightdata/fetch-api-scraper)
-- [Python 版 YouTube 爬虫工具](https://github.com/brightdata/youtube-scraper)
+- [Python 版 URL 转 Markdown（Fetch API）](https://github.com/bright-cn/fetch-api-scraper)
+- [Python 版 YouTube 爬虫工具](https://github.com/bright-cn/youtube-scraper)
 - [Python 版 LinkedIn 爬虫工具](https://github.com/bright-cn/linkedin-scraper-python)
