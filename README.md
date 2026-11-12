@@ -74,7 +74,7 @@ cited: https://www.pipedrive.com/?utm_source=chatgpt.com
 
 `include_errors=true` 会让 API 将失败的提示词报告为包含 `error` 键的行。API 默认关闭此功能。
 
-Bright Data [Python SDK](https://github.com/bright-cn/bright-data-sdk-python) 封装了这个抓取工具，但它不会发送 `require_sources`，因此无法要求 ChatGPT 提供引用。所以这里以及此软件包中都使用普通 HTTP。
+Bright Data [Python SDK](https://github.com/bright-cn/sdk-python) 封装了这个抓取工具，但它不会发送 `require_sources`，因此无法要求 ChatGPT 提供引用。所以这里以及此软件包中都使用普通 HTTP。
 
 ## 无需 OpenAI API 密钥即可抓取 ChatGPT
 
